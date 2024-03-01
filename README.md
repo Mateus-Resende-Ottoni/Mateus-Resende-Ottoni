@@ -32,7 +32,8 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ## 🌐 Redes Sociais
 
-- Nenhuma, mas tenho uma conta da Steam ( )
+- Discord ( )
+- Steam ( )
 
 ---
 
