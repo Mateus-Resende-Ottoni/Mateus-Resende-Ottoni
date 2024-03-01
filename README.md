@@ -44,11 +44,10 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ---
 
-/*
 ## 📈 Estatísticas do GitHub
 
- ![Estatísticas do GitHub](URL_DA_IMAGEM)
-*/
+// ![Estatísticas do GitHub](URL_DA_IMAGEM)
+
 ---
 
 ## 🤝 Let's Connect!
