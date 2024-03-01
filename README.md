@@ -2,9 +2,9 @@
 
 ---
 
-## 👋 Olá.
+## Olá.
 
-Seja bem-vindo ao meu espaço no GitHub. Sou Mateus, um cara um pouco apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou aprendendo os fundamentos do universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Seja bem-vindo ao meu espaço no GitHub. Sou Mateus, um cara um pouco apaixonado por Ciências da Computação e estudante na PUC Minas. Atualmente, estou aprendendo os fundamentos do universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
@@ -46,7 +46,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 
 ## 📈 Estatísticas do GitHub
 
-// ![Estatísticas do GitHub](URL_DA_IMAGEM)
+
 
 ---
 
