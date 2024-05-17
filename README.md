@@ -51,12 +51,11 @@ Minhas habilidades incluem programação em C e Html. Meus maiores destaques est
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Assistente de TI há 1 ano.<br />
 - :man_student: &nbsp; Sou estudante de Ciências da Computação<br />
 - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
 - :airplane: &nbsp; Adoro a premissa de viajar e conhecer novos lugares.<br />
 - :video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como Stardew Valley.<br />
-- :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :speech_balloon: &nbsp; Pergunte-me algo que tenha dúvida, ajudar os outros é um talento meu.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/mateus-resende-ottoni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
