@@ -71,10 +71,14 @@ Minhas habilidades incluem programação em C e Html. Meus maiores destaques est
 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/cpp.svg?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/html.svg"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/css.svg"/></a></code>
-&nbsp; 
+&nbsp;
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/js.png?raw=true"/></a></code>
+&nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/git.png"/></a></code>
 &nbsp; 
 <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/gitlab.png"/></a></code>
