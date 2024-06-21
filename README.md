@@ -36,9 +36,9 @@
 -----
 
 <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
-<div align="justify">
-Minhas habilidades incluem programação em C e Html. Meus maiores destaques estariam na minha eficácia em desenvolvimento em C e proficiente uso de ferramentas para desenvolvimento html na construção de websites de variadas aplicações. Estou sempre em busca de desafios para as minhas atuais capacidades, além de oportunidades para aprimorá-las e potencialmente desenvolver novas. Então, quer construir algo incrível juntos?
-</div>
+<div align="justify"><p>
+Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Cerulean}C++}$, ${\color{Orange}Html}$, ${\color{Blue}CSS}$ e ${\color{Yellow}Javascript}$. Meus maiores destaques estariam na minha eficácia em desenvolvimento em ${\color{Periwinkle}C}$ e proficiente uso de ferramentas para desenvolvimento ${\color{Orange}Html}$ na construção de websites de variadas aplicações. Estou sempre em busca de desafios para as minhas atuais capacidades, além de oportunidades para aprimorá-las e potencialmente desenvolver novas. Então, quer construir algo incrível juntos?
+</p></div>
 
 -----
 
