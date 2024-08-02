@@ -25,10 +25,6 @@
             <a href="https://discordapp.com/users/410787257969278977" target="_blank">
                <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/discord_custom.png?raw=true" width="75px" height="75px"/></a>
         </td>
-        <td>
-            <a href="https://calendly.com/mateus-resende-ottoni" target="_blank">
-               <img src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/calendar_custom.png?raw=true" width="75px" height="75px"/></a>
-        </td>
     </tr>
     <tr>
         <td align="center" colspan="11"></td>
@@ -66,7 +62,6 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
     - :video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como Stardew Valley.<br />
     - :speech_balloon: &nbsp; Pergunte-me algo que tenha dúvida, ajudar os outros é um talento meu.<br />
     - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:mateus.resende.ottoni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-    - :calendar: &nbsp; Essa é minha <a href="https://calendly.com/mateus-resende-ottoni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
       </p>
   </div>
 
