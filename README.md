@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:. Sou <code>Mateus</code>, tenho 18 anos, moro em BH e sou Dev. Atualmente estou no 1º período de graduação em Ciências da Computação 👨🏻‍💻 na <a href="https://https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i><br />
+<i><b>Olá</b> :wave:. Sou <code>Mateus</code>, tenho 18 anos, moro em BH e sou Dev. Atualmente estou no 2º período de graduação em Ciências da Computação 👨🏻‍💻 na <a href="https://https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i><br />
 </div>
 
 
@@ -42,7 +42,7 @@
 
 <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify"><p>
-Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Cerulean}C++}$, ${\color{Orange}Html}$, ${\color{Blue}CSS}$ e ${\color{Yellow}Javascript}$. Meus maiores destaques estariam na minha eficácia em desenvolvimento em ${\color{Periwinkle}C}$ e proficiente uso de ferramentas para desenvolvimento ${\color{Orange}Html}$ na construção de websites de variadas aplicações. Estou sempre em busca de desafios para as minhas atuais capacidades, além de oportunidades para aprimorá-las e potencialmente desenvolver novas. Então, quer construir algo incrível juntos?
+Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Cerulean}C++}$, ${\color{Yellow}Java}$, ${\color{Sepia}Verilog}$, ${\color{Orange}Html}$, ${\color{Blue}CSS}$ e ${\color{Yellow}Javascript}$. Meus maiores destaques estariam na minha eficácia em desenvolvimento em ${\color{Periwinkle}C}$ e proficiente uso de ferramentas para desenvolvimento ${\color{Orange}Html}$ na construção de websites de variadas aplicações.
 </p></div>
 
 -----
@@ -57,7 +57,6 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
   <div align="justify">
      <p>
     - :man_student: &nbsp; Sou estudante de Ciências da Computação<br />
-    - :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
     - :airplane: &nbsp; Adoro a premissa de viajar e conhecer novos lugares.<br />
     - :video_game: &nbsp; Gosto de jogar nas horas vagas, principalmente jogos como Stardew Valley.<br />
     - :speech_balloon: &nbsp; Pergunte-me algo que tenha dúvida, ajudar os outros é um talento meu.<br />
