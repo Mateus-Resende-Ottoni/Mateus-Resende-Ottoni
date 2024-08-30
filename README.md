@@ -40,7 +40,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify"><p>
 Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Cerulean}C++}$, ${\color{Yellow}Java}$, ${\color{Sepia}Verilog}$, ${\color{Orange}Html}$, ${\color{Blue}CSS}$ e ${\color{Yellow}Javascript}$. Meus maiores destaques estariam na minha eficácia em desenvolvimento em ${\color{Periwinkle}C}$ e proficiente uso de ferramentas para desenvolvimento ${\color{Orange}Html}$ na construção de websites de variadas aplicações.
 </p></div>
@@ -49,10 +49,10 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
 <div>
 
   <div>
-       <img align="right" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+       <img align="right" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/Sebastian_Programming.gif?raw=true" width="300px" height="300px"/>
   </div>
 
-  <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+  <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
   <div align="justify">
      <p>
@@ -70,7 +70,7 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
 
 <div>
 
-  <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+  <img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
   <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/c.png?raw=true"/></a></code>
@@ -93,7 +93,7 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
  
@@ -161,5 +161,5 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
 </div>
 
 <div>
-  <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/footer-red.gif?raw=true"/>
+  <img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/gif/footer-red.gif?raw=true"/>
 </div>
