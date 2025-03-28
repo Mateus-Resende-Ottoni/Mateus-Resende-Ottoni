@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:. Sou <code>Mateus</code>, tenho 18 anos, moro em BH e sou Dev. Atualmente estou no 2º período de graduação em Ciências da Computação 👨🏻‍💻 na <a href="https://https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i><br />
+<i><b>Olá</b> :wave:. Sou <code>Mateus</code>, tenho 19 anos, moro em BH e sou Dev. Atualmente estou no 3º período de graduação em Ciências da Computação 👨🏻‍💻 na <a href="https://https://www.pucminas.br/" target="_blank">Pontifícia Universidade Católica de Minas Gerais</a></i><br />
 </div>
 
 
@@ -77,12 +77,22 @@ Minhas habilidades incluem programação em ${\color{Periwinkle}C}$, ${\color{Ce
 &nbsp;
   <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/cpp.svg?raw=true"/></a></code>
 &nbsp;
+  <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/java.png"/></a></code>
+&nbsp;
   <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/html.svg"/></a></code>
 &nbsp; 
   <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/css.svg"/></a></code>
 &nbsp;
   <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp;
+  <code><a href="https://jquery.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/jquery.png"/></a></code>
+&nbsp;
+  <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/postgresql.png"/></a></code>
+  <code><a href="https://www.swift.org/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/swift.png"/></a></code>
+  <code><a href="https://www.swi-prolog.org/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/swi-prolog.png"/></a></code>
+    <code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/xcode.png"/></a></code>
+      <code><a href="https://www.tinkercad.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/tinkercad.png"/></a></code>
+    <code><a href="https://www.cburch.com/logisim/pt/index.html" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/logisim.png"/></a></code>
   <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/git.png"/></a></code>
 &nbsp; 
   <code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/Mateus-Resende-Ottoni/Mateus-Resende-Ottoni/blob/main/img/gitlab.png"/></a></code>
